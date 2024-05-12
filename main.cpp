@@ -130,5 +130,4 @@ int main() {
 	}
 
 	cin.get();
-	delete 
 }
